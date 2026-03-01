@@ -1,6 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-//AAAAA===
+//AAA
 if !audio_is_playing(snd_button_2){
 	audio_play_sound(snd_button_2,2,false)
 }
