@@ -1,13 +1,4 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-level_finish_flag = 0
-
-y_init = y
-y_final = y+5
-
-flag_lerp = true
-
-
-
-
+if global.menu_button == 1{alpha_text -= .02}
